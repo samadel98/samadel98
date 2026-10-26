@@ -9,7 +9,8 @@
   <a href="mailto:abdessamad.eladel@bcmaterials.net"><img alt="Email" src="https://img.shields.io/badge/Email-abdessamad.eladel%40bcmaterials.net-1F3864?style=flat"></a>
   <a href="https://orcid.org/0009-0000-4880-8293"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0000--4880--8293-A6CE39?style=flat&logo=orcid&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=YplW2XsAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white"></a>
-  <a href="https://www.bcmaterials.net/"><img alt="BCMaterials" src="https://img.shields.io/badge/BCMaterials-Leioa%2C_Spain-1F3864?style=flat"></a>
+  <a href="https://www.linkedin.com/in/abdessamad-el-adel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abdessamad--el--adel-0A66C2?style=flat"></a>
+  <a href="https://www.bcmaterials.net/en/people"><img alt="BCMaterials" src="https://img.shields.io/badge/BCMaterials-Leioa%2C_Spain-1F3864?style=flat"></a>
 </p>
 
 ---
@@ -44,7 +45,7 @@ Computational materials scientist specializing in the **surface chemistry of col
 ## Experience
 
 **Pre-doctoral Researcher** · *Mar 2023 – present*<br>
-BCMaterials – Basque Center for Materials, Applications and Nanostructures, Spain · Computational Materials Science group
+[BCMaterials](https://www.bcmaterials.net/en/people) – Basque Center for Materials, Applications and Nanostructures, Spain · Computational Materials Science group
 
 - **Ligand binding:** computed ligand binding free energies on CsPbBr<sub>3</sub> nanocrystal surfaces with alchemical free-energy calculations and metadynamics, to assess how strongly different ligands passivate the surface (poster, Beilstein Symposium 2023).
 - **Nucleation:** simulated the nucleation of PbSe nanocrystals with classical force fields (poster, MATSUS Spring 2025).
